@@ -1,0 +1,5 @@
+name: Danylo,
+surname: Andriushko,
+age: 33,
+pets: no pets,
+salary: 5000
