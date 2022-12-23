@@ -1,0 +1,9 @@
+id:1,
+severity: critical,
+enviroment: iOS 15.9 iPhone 10,
+title: The instant buy crypto with a card form disappears within 1 second after entering the site Currency.com,
+preconditions: The 'Bitcoin & Crypto Price Widget' is open,
+steps to reproduce: Scroll the link to the left, tap on the 
+'Buy crypto instantly with a card at Currency.com' link, pay attention to the 'instant buy crypto with a card' form,
+actual result: The instant buy crypto with a card form disappears within 1 second after entering the site Currency.com,
+expected result: The instant buy crypto with card form is displayed after entering the site Currency.com and the user can buy crypto with a card.
